@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem-vindos(as) ao meu perfil!! 🫶
 
-<!--
-**KarinaUtsumi/KarinaUtsumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Karina
+- Tenho 17 anos
+- Estou no 3 ano do ensino médio
+- Utilizo esta plataforma para guardar os projetos que eu faço na escola
 
-Here are some ideas to get you started:
+### Para entrar em contato🫂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - karinautsumi12@gmail.com
+  - 00001107182736sp@al.educacao.sp.gov.br
+
+ ![](https://media1.tenor.com/m/oo5385iBNpQAAAAC/mochi_cat-peach_cat.gif)
+    
